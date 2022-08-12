@@ -1,2 +1,5 @@
 # DL-Activation_Functions_in_Neural_Network
-This repository summarizes the basic concepts, types and usage scenarios of activation functions in deep learning.
+:octocat: This repository summarizes the basic concepts, types and usage scenarios of activation functions in Deep Learning.
+The notes contain the modules outlined below:<br>
+|No.| Module| Gist|
+|---|---|---|
